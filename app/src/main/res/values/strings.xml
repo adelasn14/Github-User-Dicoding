@@ -1,0 +1,20 @@
+<resources>
+    <!-- Other string resources-->
+    <string name="app_name">GitHub User Navigation</string>
+
+    <string name="name">Nama Pengguna</string>
+    <string name="username">Username</string>
+    <string name="location">Lokasi</string>
+    <string name="company">Company</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="search_hint">Enter a word</string>
+    <string name="id">id</string>
+    <string name="tab1">Following</string>
+    <string name="tab2">Followers</string>
+    <string name="BtnShare">SHARE THIS USER</string>
+    <string name="favorite_user">Favorite User</string>
+    <string name="switch_mode">Dark Mode</string>
+</resources>
+
+
