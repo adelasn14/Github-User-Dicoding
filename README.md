@@ -13,8 +13,6 @@ Checklist:
 
 [x] There is a setting for changing the theme.
 
-[x] Maintain all application features and components used in Submission 2.
-
 [x] The application is not force closed.
 
 
