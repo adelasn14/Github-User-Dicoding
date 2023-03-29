@@ -1,21 +1,21 @@
 # Github User 3-Dicoding
 
-Submission 3 - Aplikasi Github User dengan Navigation API dan Fav User
+Submission 3 - Github User Application with Navigation API and Fav User
  
 
 Checklist:
 
-[x] Aplikasi bisa menambah user ke daftar favorite.
+[x] Application can add user to favorite list.
 
-[x] Aplikasi bisa menghapus user dari daftar favorite.
+[x] The application can remove the user from the favorite list.
 
-[x] Halaman yang menampilkan daftar user favorite.
+[x] A page that displays a list of user favorites.
 
-[x] Terdapat pengaturan untuk mengganti tema.
+[x] There is a setting for changing the theme.
 
-[x] Mempertahankan semua fitur aplikasi dan komponen yang digunakan pada Submission 2.
+[x] Maintain all application features and components used in Submission 2.
 
-[x] Aplikasi tidak force closed.
+[x] The application is not force closed.
 
 
 More details about the scorecard : https://madscorecard.withgoogle.com/scorecard/share/2983381900/
